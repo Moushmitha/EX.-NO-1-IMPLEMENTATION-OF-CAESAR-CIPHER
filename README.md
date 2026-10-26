@@ -1,5 +1,7 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
 
+## PROGRAM DONE BY : Moushmitha B (212225230189)
+
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
 
@@ -44,7 +46,7 @@ int main() {
 }
 ```
 
-## OUTPUT:
+
 
 ## OUTPUT:
 <img width="455" height="221" alt="Screenshot 2026-10-26 213737" src="https://github.com/user-attachments/assets/88753f1f-b3eb-40e0-871b-e91fcb3b13a8" />
